@@ -32,7 +32,7 @@ The first step was to **debloat Windows 11**; removing unnecessary apps, backgro
 
 Once the system was optimized, I moved on to the **design and usability improvements**. Here, I focused on customizing the Windows 11 desktop environment using Seelen UI, aiming for a cleaner, more consistent and more enjoyable interface. This includes visual tweaks, layout adjustments and enhancements to the overall workflow. You can find the full documentation of this process in my [Design guide](/Design/README.md) or in the [Design folder](/Design/).<br>
 
-The combination of these two approaches—debloating and design customization—resulted in a Windows 11 setup that is both lightweight and visually refined, balancing performance with aesthetics.
+The combination of these two approaches, debloating and design customization, resulted in a Windows 11 setup that is both lightweight and visually refined, balancing performance with aesthetics.
 
 <br>
 
